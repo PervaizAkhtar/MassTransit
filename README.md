@@ -1,9 +1,8 @@
 # MassTransit
 MassTransit
 
-#new changes to site 
-www.google.co.uk 
+#new changes to main application 
+this is how applications should works
 
-more changes to code repo 
-
-more changes to repoes 
+#and new one
+more 
